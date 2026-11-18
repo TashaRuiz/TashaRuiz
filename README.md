@@ -1,23 +1,40 @@
-# Hi there! 👋 I'm Tasha Ruiz
+<div align="center">
+  
+# 👋 Hey there, I'm Tasha Ruiz!
 
-### 💻 Aspiring Software Engineer | Holberton School Puerto Rico
+</div>
 
-Welcome to my GitHub profile!
+### 💻 Aspiring Full-Stack Software Engineer | Holberton School Puerto Rico 🇵🇷
 
-I'm an aspiring **Software Engineer** currently studying at **Holberton School Puerto Rico**, where I'm developing my programming skills, exploring different technologies, and building projects that help me grow as a developer.
+Welcome to my GitHub!
 
-I'm passionate about technology, problem-solving, software development, and continuously learning new things. My goal is to become a well-rounded Software Engineer capable of designing and developing creative, efficient, and scalable solutions.
+I'm a Software Engineering student at **Holberton School Puerto Rico**, passionate about technology, software development, problem-solving, and building things that turn ideas into reality.
+
+I'm currently developing my skills in programming, backend development, frontend technologies, databases, system fundamentals, and software architecture. My journey is about learning by doing, challenging myself, and continuously becoming a better engineer.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Tasha Ruiz"
+        self.role = "Aspiring Full-Stack Software Engineer"
+        self.school = "Holberton School Puerto Rico"
+        self.languages = ["C", "Python", "SQL", "HTML", "CSS", "Shell"]
+        self.current_focus = "Learning, building, and improving every day"
+
+    def say_hello(self):
+        print("Thanks for visiting my GitHub!")
+```
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently studying Software Engineering at **Holberton School Puerto Rico**.
-- 💻 Learning and practicing different programming languages and technologies.
-- 🧠 Developing my problem-solving and algorithmic thinking skills.
-- 🔨 Building projects to strengthen my technical knowledge.
-- 📚 Always exploring new technologies and improving my coding skills.
-- 🎯 Working towards becoming a professional Software Engineer.
+- 🎓 Software Engineering student at **Holberton School Puerto Rico**.
+- 💻 Learning full-stack software development.
+- 🧩 Interested in solving problems and understanding how software works behind the scenes.
+- 🌱 Constantly learning new languages, tools, and technologies.
+- 🛠️ Building projects to transform knowledge into practical experience.
+- 🎯 My goal is to become a skilled Full-Stack Software Engineer and create meaningful software.
 
 ---
 
@@ -47,69 +64,116 @@ These are some of the technologies I've been learning and working with:
 
 ---
 
-## 📂 Featured Projects
+## 📚 What I'm Learning
 
-Here are some of my projects and learning experiences:
+| Area                     | Topics                                                      |
+| ------------------------ | ----------------------------------------------------------- |
+| **Programming**          | C, Python, functions, OOP, data structures, algorithms      |
+| **Shell & Linux**        | Bash, Linux commands, scripting, processes, permissions     |
+| **Web Development**      | HTML, CSS, frontend fundamentals                            |
+| **Backend Development**  | Python, application logic, server-side development          |
+| **APIs**                 | REST architecture, HTTP requests, endpoints, JSON           |
+| **Databases**            | SQL, relational databases, queries, data modeling           |
+| **Software Engineering** | Architecture, modular design, debugging, Git, documentation |
 
-| Project | Description | Technologies |
-|---|---|---|
-| Simple Shell | A UNIX command-line interpreter | C, Shell |
-| HBnB | A web application project focused on application architecture and APIs | Python, REST API, SQL |
-| _Coming Soon_ | More projects are currently in development! | 🚀 |
+---
 
-Check out my repositories to explore my work and follow my progress.
+## 💻 Featured Projects
+
+### 🐚 Simple Shell
+
+A custom UNIX command-line interpreter developed as part of my C programming journey.
+
+- Process creation and execution
+- Command parsing
+- PATH resolution
+- Environment variables
+- System calls
+
+**Technologies:** `C` `Linux` `Shell` `System Calls`
+
+---
+
+### 🏡 HBnB — Holberton Project
+
+A web application project inspired by Airbnb, focused on understanding software architecture, backend development, APIs, and data management.
+
+- Layered application architecture
+- RESTful API design
+- Business logic
+- Data models and relationships
+- Database design
+
+**Technologies:** `Python` `REST API` `SQL` `JSON`
+
+---
+
+### 🚧 More Projects Coming Soon
+
+I'm constantly working on new projects, improving existing ones, and exploring new technologies. Stay tuned!
 
 ---
 
 ## 📈 My Developer Journey
 
-I'm continuously improving my skills through hands-on projects, coding challenges, and collaborative learning.
+```text
+Shell & Linux
+     ↓
+C Programming & Memory Management
+     ↓
+Algorithms & Data Structures
+     ↓
+Python & Backend Development
+     ↓
+APIs & Database Design
+     ↓
+HTML & CSS
+     ↓
+Full-Stack Development
+     ↓
+Building Real-World Software 🚀
+```
 
-My learning journey includes:
-
-- **Shell & Linux:** Command-line fundamentals and system navigation.
-- **C Programming:** Memory management, pointers, algorithms, and data structures.
-- **Python:** Programming fundamentals, object-oriented programming, and application development.
-- **APIs:** Understanding HTTP, REST APIs, requests, and data communication.
-- **SQL & Databases:** Database management and queries.
-- **Web Development:** Building web pages with HTML and CSS.
-
-There is always something new to learn!
+I'm building my foundation step by step, focusing not only on writing code but also on understanding why it works, how it works, and how to make it better.
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Goals
 
-- [ ] Strengthen my Python programming skills.
+- [ ] Strengthen my C programming fundamentals.
+- [ ] Master Python and object-oriented programming.
 - [ ] Improve my knowledge of algorithms and data structures.
-- [ ] Develop full-stack web applications.
-- [ ] Learn more about backend development and APIs.
-- [ ] Improve my database design and management skills.
-- [ ] Build and publish more personal projects.
-- [ ] Continue growing as a Software Engineer.
+- [ ] Build backend applications and REST APIs.
+- [ ] Develop responsive and interactive websites.
+- [ ] Learn more about SQL and database architecture.
+- [ ] Create complete full-stack projects.
+- [ ] Build a portfolio of real-world software projects.
+- [ ] Keep learning and never stop improving.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TashaRuiz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TashaRuiz&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=TashaRuiz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github" width="48%" />   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashaRuiz&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1" width="48%" /> </p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-- 💼 GitHub: [@TashaRuiz](https://github.com/TashaRuiz)
-- 📝 LinkedIn: www.linkedin.com/in/tasha-ruiz-bb6119189
-- 📍 Location: Puerto Rico 🇵🇷
-- 🎓 Education: Holberton School Puerto Rico
+<p align="left">   <a href="https://github.com/TashaRuiz">     <img src="https://img.shields.io/badge/GitHub-TashaRuiz-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />   </a>   <a href="https://www.linkedin.com/in/tasha-ruiz-bb6119189/">     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />   </a> </p>
+
+📍 Puerto Rico
+🎓 Holberton School Puerto Rico
+💻 Aspiring Full-Stack Software Engineer
 
 ---
 
-### 💡 "Every expert was once a beginner. Keep learning, keep building, and keep growing."
+<div align="center">
 
-Thanks for visiting my profile! ⭐
+### 💜 Learn. Build. Break. Debug. Improve. Repeat. 🚀
 
+*"The journey of a thousand lines of code begins with a single line."*
 
+Thanks for stopping by my profile! ⭐
 
+</div>
